@@ -1,1 +1,1 @@
-# e-commers-website
+# E-commerce website
